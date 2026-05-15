@@ -1,7 +1,7 @@
 {
   "name": "bot-pagos-encuentros",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bot de pagos para modelos",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
